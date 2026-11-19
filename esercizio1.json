@@ -1,0 +1,100 @@
+{
+  "hospital_name": "Ospedale Centrale",
+  "departments": [
+    {
+      "name": "Pronto Soccorso",
+      "doctors": [
+        {
+          "name": "Dott. Marco Bruni",
+          "specialization": "Medico di Pronto Soccorso"
+        }
+      ],
+      "patients": [
+        {
+          "name": "Luigi Esposito",
+          "age": 45,
+          "diagnosis": "Dolore toracico"
+        },
+        {
+          "name": "Giovanna Romano",
+          "age": 28,
+          "diagnosis": "Difficolta respiratorie"
+        }
+      ]
+    },
+    {
+      "name": "Ortopedia",
+      "doctors": [
+        {
+          "name": "Dott.ssa Silvia Neri",
+          "specialization": "Ortopedico"
+        }
+      ],
+      "patients": [
+        {
+          "name": "Matteo Ricci",
+          "age": 14,
+          "diagnosis": "Frattura del polso"
+        },
+        {
+          "name": "Maria Rosa",
+          "age": 82,
+          "diagnosis": "Frattura del femore"
+        }
+      ]
+    },
+    {
+      "name": "Chirurgia",
+      "doctors": [
+        {
+          "name": "Dott. Andrea Gialli",
+          "specialization": "Chirurgo"
+        }
+      ],
+      "patients": [
+        {
+          "name": "Simone Ferrari",
+          "age": 22,
+          "diagnosis": "Appendicite acuta"
+        },
+        {
+          "name": "Carla Bianchi",
+          "age": 55,
+          "diagnosis": "Calcoli renali"
+        }
+      ]
+    },
+    {
+      "name": "Cardiologia",
+      "doctors": [
+        {
+          "name": "Dott.ssa Elena Verdi",
+          "specialization": "Cardiologo"
+        }
+      ],
+      "patients": [
+        {
+          "name": "Antonio Russo",
+          "age": 68,
+          "diagnosis": "Infarto"
+        }
+      ]
+    },
+    {
+      "name": "Pediatria",
+      "doctors": [
+        {
+          "name": "Dott. Luca Bianchi",
+          "specialization": "Pediatra"
+        }
+      ],
+      "patients": [
+        {
+          "name": "Giulia Marino",
+          "age": 3,
+          "diagnosis": "Gastroenterite"
+        }
+      ]
+    }
+  ]
+}
