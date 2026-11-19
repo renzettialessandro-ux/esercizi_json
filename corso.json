@@ -1,0 +1,9 @@
+{
+  "nomeCorso": "Informatica",
+  "studenti": [
+    { "nome": "Mario", "punteggio": 75 },
+    { "nome": "Luigi", "punteggio": 92 },
+    { "nome": "Anna", "punteggio": 68 },
+    { "nome": "Giulia", "punteggio": 88 }
+  ]
+}
